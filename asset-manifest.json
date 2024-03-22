@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cameraAnalytic/static/css/main.6186b47b.css",
-    "main.js": "/cameraAnalytic/static/js/main.0dc34509.js",
+    "main.js": "/cameraAnalytic/static/js/main.83c3e151.js",
     "static/media/test_1.mp4": "/cameraAnalytic/static/media/test_1.a39d889b9c3a032cd938.mp4",
     "static/media/test_2.mp4": "/cameraAnalytic/static/media/test_2.b7368273063b53d4b797.mp4",
     "index.html": "/cameraAnalytic/index.html",
     "main.6186b47b.css.map": "/cameraAnalytic/static/css/main.6186b47b.css.map",
-    "main.0dc34509.js.map": "/cameraAnalytic/static/js/main.0dc34509.js.map"
+    "main.83c3e151.js.map": "/cameraAnalytic/static/js/main.83c3e151.js.map"
   },
   "entrypoints": [
     "static/css/main.6186b47b.css",
-    "static/js/main.0dc34509.js"
+    "static/js/main.83c3e151.js"
   ]
 }
